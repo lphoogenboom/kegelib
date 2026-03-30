@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: kegelib
+Version: 0.1a0
+Summary: A library to support retinal histology segmentation
+Author: Laurens Paul Hoogenboom
+Author-email: hoogenboom.l.p@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: summary

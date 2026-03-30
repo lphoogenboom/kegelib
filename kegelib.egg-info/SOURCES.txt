@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+kegelib/__init__.py
+kegelib.egg-info/PKG-INFO
+kegelib.egg-info/SOURCES.txt
+kegelib.egg-info/dependency_links.txt
+kegelib.egg-info/top_level.txt
