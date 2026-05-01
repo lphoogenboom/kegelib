@@ -1,6 +1,10 @@
 LICENSE
 setup.py
 kegelib/__init__.py
+kegelib/ioman.py
+kegelib/quality.py
+kegelib/qupath.py
+kegelib/test.py
 kegelib.egg-info/PKG-INFO
 kegelib.egg-info/SOURCES.txt
 kegelib.egg-info/dependency_links.txt
